@@ -28,5 +28,6 @@ Este proyecto es un chat en tiempo real desarrollado con PHP, WebSocket, MySQL y
 
 - Debes usar el comando:
 
- ```bash
+   ```bash
    php ws-server.php
+
