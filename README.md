@@ -17,6 +17,19 @@ Este proyecto es un chat en tiempo real desarrollado con PHP, WebSocket, MySQL y
 - **WebSocket**: Para la comunicación bidireccional y actualizaciones en tiempo real.
 - **Versionamiento de Código**: Git y GitHub para el control de versiones y alojamiento del código.
 
+## Mockups 🖼️
+
+Aquí hay algunos mockups del proyecto:
+
+<div align="center">
+  <picture>
+    <img src="http://imgfz.com/i/8mOPnwZ.png" alt="Img Panel" width="400"/>
+  </picture>
+  <picture>
+    <img src="http://imgfz.com/i/fPBs89E.png" alt="Chat" width="400"/>
+  </picture>
+</div>
+
 ## Configuración y Uso
 
 1. **Clonar el Repositorio**
