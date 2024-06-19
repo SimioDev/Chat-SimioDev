@@ -23,3 +23,10 @@ Este proyecto es un chat en tiempo real desarrollado con PHP, WebSocket, MySQL y
 
    ```bash
    git clone https://github.com/SimioDev/Chat-SimioDev.git
+
+2. **Comenzar a Correr el Servidor**
+
+- Debes usar el comando:
+
+ ```bash
+   php ws-server.php
