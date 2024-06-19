@@ -1,0 +1,65 @@
+body {
+    background-color: #f0f0f0;
+}
+
+.navbar {
+    background-color: #075e54;
+}
+
+.navbar .nav-link {
+    color: #ffffff;
+}
+
+.navbar .nav-link:hover {
+    color: #d4d4d4;
+}
+
+#chatWindow {
+    background-color: #ffffff;
+}
+
+#messages {
+    background-color: #e5ddd5;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#messages .my-message {
+    background-color: #dcf8c6;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: right;
+}
+
+#messages .other-message {
+    background-color: #ffffff;
+    padding: 5px 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+#messageForm input {
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+}
+
+#messageForm input[type="text"] {
+    flex: 1;
+    margin-right: 10px;
+}
+
+#messageForm button {
+    border: none;
+}
+
+.active-chat {
+    background-color: #36da5f; 
+    transition: background-color 0.3s ease; 
+}
+
+.active-chat a {
+    color: #000; 
+}
